@@ -1,4 +1,6 @@
-<img width="1254" height="1254" alt="IMG-20260524-WA0014" src="https://github.com/user-attachments/assets/1331825e-9657-4e2d-ad47-83a672ea304a" />
+<p align="center">
+  <img width="500" height="500" alt="IMG-20260524-WA0014" src="https://github.com/user-attachments/assets/1331825e-9657-4e2d-ad47-83a672ea304a" />
+</p>
 
 # SIDCU - Simulador de Carreras Universitarias
 
